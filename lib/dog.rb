@@ -5,13 +5,13 @@ class Dog
   end
 
   def name
-    @this_dogs_name
+    @name
   end
 
 
 
   def intialize(dogs_breed)
-    @this_dogs_breed = dogs_breed
+    @ = dogs_breed
   end
 
   def breed
