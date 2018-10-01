@@ -11,11 +11,11 @@ class Dog
 
 
   def intialize(dogs_breed)
-    @breed = breed
+    @this_dogs_breed = dogs_breed
   end
 
   def breed
-    @breed
+    @this_dogs_breed
   end
 
 
